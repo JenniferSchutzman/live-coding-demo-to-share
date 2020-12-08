@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Jenny Schutzman",
+      "company": "Tallo",
+      "commonLanguage": "Javascript",
+      "hasDog": false
+    },
+    {
+      "id": 2,
+      "name": "Anna Fulton",
+      "company": "Sovereign",
+      "commonLanguage": "Javascript",
+      "hasDog": true
+    },
+    {
+      "id": 3,
+      "name": "Liah Wallace",
+      "company": "Boomtown",
+      "commonLanguage": "PhP",
+      "hasDog": null
+    }
+  ]
+}
